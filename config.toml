@@ -1,4 +1,4 @@
-baseURL = 'floatingman.github.io'
+baseURL = 'https://floatingman.github.io'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "beautifulhugo"
